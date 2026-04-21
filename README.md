@@ -3,7 +3,7 @@ This project is an interactive Excel dashboard for a hospital emergency room. It
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" width="900">
+  <img src="images/Hospital Emergency Room Dashboard.png" width="900">
 </p>
 
 
