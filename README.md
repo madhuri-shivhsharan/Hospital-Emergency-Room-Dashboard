@@ -2,9 +2,7 @@
 This project is an interactive Excel dashboard for a hospital emergency room. It helps to analyze patient data, waiting time, and hospital performance in a simple and visual way.
 ## 📊 Dashboard Preview
 
-<p align="center">
-  <img src="images/Hospital Emergency Room Dashboard.png" width="900">
-</p>
+![Dashboard](DATA ANAYLTICS NOTES\EXCEL HOSPITAL EMERGENCY ROOM DASHBOARD.png)
 
 
 ---
