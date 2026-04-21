@@ -3,6 +3,9 @@ This project is an interactive Excel dashboard for a hospital emergency room. It
 ## 📊 Dashboard Preview
 
 
+<p align="center">
+  <img src="images/Hospital Emergency Room Dashboard.png" width="800">
+</p>
 ---
 
 ## 📈 Key Details
