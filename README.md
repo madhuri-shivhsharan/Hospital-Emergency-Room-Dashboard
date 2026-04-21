@@ -27,8 +27,9 @@ This project is an interactive Excel dashboard for a hospital emergency room. It
 - Shows daily patient satisfaction score  
 <img src="Satisfaction Score Trend.png" width="800">
 
-##📊 Patient Status (On Time vs Delay)
-- Shows how many patients were treated on time and delayed  
+## 📊  Patient Status (On Time vs Delay) 
+- Shows how many patients were treated on time and delayed
+   
 ### 👨‍⚕️ Gender Distribution
 - Shows number of male and female patients  
 ### 🏨 Department Referral
