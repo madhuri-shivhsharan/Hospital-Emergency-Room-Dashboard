@@ -24,7 +24,7 @@ This project is an interactive Excel dashboard for a hospital emergency room. It
 ### 📈 Daily Average Wait Time
 - Shows daily waiting time of patients  
 - Helps identify busy days  
-
+<img src="Wait Time Trend.png" width="800">
 ---
 
 ### 👥 Daily Number of Patients
