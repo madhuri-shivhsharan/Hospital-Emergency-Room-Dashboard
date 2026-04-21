@@ -18,13 +18,16 @@ This project is an interactive Excel dashboard for a hospital emergency room. It
 - Shows daily waiting time of patients  
 - Helps identify busy days  
 <img src="Wait Time Trend.png" width="800">
-### 👥 Daily Number of Patients
+
+## 👥 Daily Number of Patients
 - Shows number of patients visiting each day  
 <img src="Patients Trend.png" width="800">
-### ⭐ Patient Satisfaction Trend
+
+## ⭐ Patient Satisfaction Trend
 - Shows daily patient satisfaction score  
 <img src="Satisfaction Score Trend.png" width="800">
-### 📊 Patient Status (On Time vs Delay)
+
+##📊 Patient Status (On Time vs Delay)
 - Shows how many patients were treated on time and delayed  
 ### 👨‍⚕️ Gender Distribution
 - Shows number of male and female patients  
