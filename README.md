@@ -46,13 +46,6 @@ This project is an interactive Excel dashboard for a hospital emergency room. It
 - Shows number of male and female patients  
 
 ---
-
-
-### 👶👵 Patients by Age Group
-- Highest patients in age group **10–19** and **40–49**  
-
----
-
 ### 🏨 Department Referral
 - Most patients referred to:
   - General  
