@@ -1,35 +1,68 @@
 # Hospital-Emergency-Room-Dashboard
 This project is an interactive Excel dashboard for a hospital emergency room. It helps to analyze patient data, waiting time, and hospital performance in a simple and visual way.
 <img src="Hospital Emergency Room Dashboard.jpg" width="800">
-🎯  **Project Objective**
-Track total number of patients.
-Monitor average waiting time.
-Analyze patient satisfaction.
-Understand admission and referral data.
-🛠  **Tools Used**
-Microsoft Excel,Pivot Tables,Charts,Data Cleaning
-📷 # Detailed Analysis
-📈 Daily Average Wait Time
-Shows daily waiting time of patients. Helps identify busy days.
-👥 Daily Number of Patients
-Shows number of patients visiting each day.
-⭐ Patient Satisfaction Trend
-Shows daily patient satisfaction score.
-📊 Patient Status (On Time vs Delay)
-Shows how many patients were treated on time and delayed.
-👨‍⚕️ Gender Distribution
-Shows number of male and female patients.
-🏥 Admission Status
-Admitted: 55%
-Not Admitted: 45%
-👶👵 Patients by Age Group
-Highest patients in age group 10–19 and 40–49.
-🏨 Department Referral
-Most patients referred to:
-General
-Orthopedics
-💡 ## Key Insights
-Majority patients are admitted
-Some patients face delays.
-Certain age groups visit more frequently.
-Few departments handle most of the cases.
+## 🎯 Project Objectives
+
+- Track total number of patients  
+- Monitor average waiting time  
+- Analyze patient satisfaction  
+- Understand admission and referral data  
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel  
+- Pivot Tables  
+- Charts  
+- Data Cleaning  
+
+---
+
+## 📷 Detailed Analysis
+
+### 📈 Daily Average Wait Time
+- Shows daily waiting time of patients  
+- Helps identify busy days  
+
+---
+
+### 👥 Daily Number of Patients
+- Shows number of patients visiting each day  
+
+---
+
+### ⭐ Patient Satisfaction Trend
+- Shows daily patient satisfaction score  
+
+---
+
+### 📊 Patient Status (On Time vs Delay)
+- Shows how many patients were treated on time and delayed  
+
+---
+
+### 👨‍⚕️ Gender Distribution
+- Shows number of male and female patients  
+
+---
+
+
+### 👶👵 Patients by Age Group
+- Highest patients in age group **10–19** and **40–49**  
+
+---
+
+### 🏨 Department Referral
+- Most patients referred to:
+  - General  
+  - Orthopedics  
+
+---
+
+## 💡 Key Insights
+
+- Majority of patients are admitted  
+- Some patients face delays  
+- Certain age groups visit more frequently  
+- Few departments handle most of the cases  
