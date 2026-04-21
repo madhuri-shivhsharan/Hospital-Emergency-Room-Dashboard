@@ -1,15 +1,14 @@
 # Hospital-Emergency-Room-Dashboard
 This project is an interactive Excel dashboard for a hospital emergency room. It helps to analyze patient data, waiting time, and hospital performance in a simple and visual way.
-# 📊 Dashboard Preview
 <img src="Hospital Emergency Room Dashboard.jpg" width="800">
-🎯 ## Project Objective
+🎯 # Project Objective
 Track total number of patients
 Monitor average waiting time
 Analyze patient satisfaction
 Understand admission and referral data
-🛠 ## Tools Used
+🛠 # Tools Used
 Microsoft Excel,Pivot Tables,Charts,Data Cleaning
-📷 ## Detailed Analysis
+📷 # Detailed Analysis
 📈 Daily Average Wait Time
 Shows daily waiting time of patients. Helps identify busy days.
 👥 Daily Number of Patients
